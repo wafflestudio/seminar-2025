@@ -66,7 +66,7 @@
 | 오원균 | prunnejn@snu.ac.kr | | | |
 | 유예림 | yerimryu@snu.ac.kr | | | |
 | 윤찬규 | yoon002003@snu.ac.kr | | | |
-| 윤환성 | hsyoonchoi@snu.ac.kr | spring | Fastapi | Frontend |
+| 윤환성 | hsyoonchoi@snu.ac.kr | spring | fastapi | frontend |
 | 이가현 | philipaaron1001@gmail.com | | | |
 | 이민준 | sshslmj@gmail.com | | | |
 | 이상원 | swl20040421@gmail.com | | | |
