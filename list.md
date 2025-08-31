@@ -81,7 +81,7 @@
 | 이정달 | jdahl0711@gmail.com | | | |
 | 이정연 | jylee05@snu.ac.kr | | | |
 | 이준성 | leejs0525@snu.ac.kr | | | |
-| 이준엽 | jun411@snu.ac.kr | | | |
+| 이준엽 | jun411@snu.ac.kr | frontend | android | spring |
 | 이진솔 | jinsollee4@gmail.com | | | |
 | 이태윤 | ty0908@snu.ac.kr | | | |
 | 이한경 | tteokgook1@snu.ac.kr | | | |
