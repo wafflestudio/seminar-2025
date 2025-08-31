@@ -41,7 +41,7 @@
 | 나규하 | danielna1118@snu.ac.kr | | | |
 | 남현석 | hyeonseok3168@gmail.com | | | |
 | 노찬울 | chanul0326@gmail.com | | | |
-| 맹준호 | tommymaeng@gmail.com | | | |
+| 맹준호 | tommymaeng@gmail.com |react|spring|ios|
 | 문동휘 | ehdgnlans@gmail.com | | | |
 | 박준영 | ezypuz@snu.ac.kr | | | |
 | 박준영 | bloomwayz@snu.ac.kr | | | |
