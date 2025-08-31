@@ -93,7 +93,7 @@
 | 정성원 | cjwjeong2187@gmail.com | | | |
 | 정현수 | hyunsoo3318@snu.ac.kr | | | |
 | 정혜인 | hye__n@snu.ac.kr | | | |
-| 조무영 | strangequark000@gmail.com | | | |
+| 조무영 | strangequark000@gmail.com | android | frontend | spring |
 | 조민 | 7shinori@gmail.com | | | |
 | 조민경 | oke08034@snu.ac.kr | | | |
 | 조서현 | andrew030818@gmail.com | | | |
