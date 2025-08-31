@@ -75,7 +75,7 @@
 | 이소현 | truelove0305@naver.com | | | |
 | 이슬찬 | seulchan.lee@pm.me | | | |
 | 이승현 | lsh09130@gmail.com | | | |
-| 이예원 | yewon@snu.ac.kr | | | |
+| 이예원 | yennieday@naver.com |`spring`|`fastapi`|`iOS`|
 | 이예준 | cermix0317@gmail.com | | | |
 | 이유리 | yulee2004@gmail.com | | | |
 | 이정달 | jdahl0711@gmail.com | | | |
