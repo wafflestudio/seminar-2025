@@ -50,7 +50,7 @@
 | 부민성 | fumin01@snu.ac.kr | | | |
 | 서민석 | sms029317@gmail.com | | | |
 | 서민준 | minjun05@snu.ac.kr | | | |
-| 서주원 | juwon0718@snu.ac.kr | | | |
+| 서주원 | juwon0718@snu.ac.kr | spring | fastapi | android |
 | 설한동 | yabsed@snu.ac.kr | | | |
 | 손동화 | fairy7ale@icloud.com | | | |
 | 손현준 | shon804@snu.ac.kr | | | |
