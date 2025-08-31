@@ -108,5 +108,5 @@
 | 한영웅 | hyulives@gmail.com | | | |
 | 한지유 | guhan530@gmail.com | | | |
 | 허서연 | best3487@snu.ac.kr | | | |
-| 홍지수 | jaylovegood@snu.ac.kr | | | |
+| 홍지수 | jaylovegood@snu.ac.kr | spring | android | react |
 | 홍진목 | jinmokhong@naver.com | | | |
