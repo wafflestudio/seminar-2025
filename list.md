@@ -12,7 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | (예시) 김정훈 | junghoonkim@snu.ac.kr | spring | frontend | iOS |
 | 강민보 | minbo0525@snu.ac.kr | | | |
-| 강현구 | hyunkang02@gmail.com | | | |
+| 강현구 | hyunkang02@gmail.com |fastapi|spring|frontend|
 | 경마린 | kyungmarin@snu.ac.kr | | | |
 | 구동현 | ericgudong@gmail.com | | | |
 | 권성안 | sungahn0206@gmail.com | | | |
