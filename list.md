@@ -60,7 +60,7 @@
 | 송현우 | home102105@snu.ac.kr | | | |
 | 신유진 | erinshins@snu.ac.kr | | | |
 | 신중우 | scania@kakao.com | | | |
-| 양해울 | haeul1005@naver.com | | | |
+| 양해울 | haeul1005@naver.com | fastapi | spring | frontend |
 | 오세민 | andrew041204@snu.ac.kr | | | |
 | 오예찬 | oyc3225@naver.com | | | |
 | 오원균 | prunnejn@snu.ac.kr | | | |
