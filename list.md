@@ -86,7 +86,7 @@
 | 이태윤 | ty0908@snu.ac.kr | | | |
 | 이한경 | tteokgook1@snu.ac.kr | | | |
 | 임효리 | alinwinskingsleigh@snu.ac.kr | | | |
-| 장우혁 | morrranii@gmail.com | | | |
+| 장우혁 | morrranii@gmail.com | fastapi | frontend | spring |
 | 장정윤 | 06olivia@naver.com | | | |
 | 전동주 | dongjujeon@snu.ac.kr | | | |
 | 정민건 | geon4096@gmail.com | | | |
