@@ -63,7 +63,7 @@
 | 양해울 | haeul1005@naver.com | | | |
 | 오세민 | andrew041204@snu.ac.kr | | | |
 | 오예찬 | oyc3225@naver.com | | | |
-| 오원균 | prunnejn@snu.ac.kr | | | |
+| 오원균 | prunnejn@snu.ac.kr |android |frontend |spring |
 | 유예림 | yerimryu@snu.ac.kr | | | |
 | 윤찬규 | yoon002003@snu.ac.kr | | | |
 | 윤환성 | hsyoonchoi@snu.ac.kr | | | |
