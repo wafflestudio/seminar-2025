@@ -91,7 +91,7 @@
 | 전동주 | dongjujeon@snu.ac.kr | | | |
 | 정민건 | geon4096@gmail.com | | | |
 | 정성원 | cjwjeong2187@gmail.com | | | |
-| 정현수 | hyunsoo3318@snu.ac.kr | | | |
+| 정현수 | hyunsoo3318@snu.ac.kr |1| | |
 | 정혜인 | hye__n@snu.ac.kr | | | |
 | 조무영 | strangequark000@gmail.com | | | |
 | 조민 | 7shinori@gmail.com | | | |
