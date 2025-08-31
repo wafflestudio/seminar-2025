@@ -40,7 +40,7 @@
 | 김효원 | khwon6960@snu.ac.kr | | | |
 | 나규하 | danielna1118@snu.ac.kr | | | |
 | 남현석 | hyeonseok3168@gmail.com | | | |
-| 노찬울 | chanul0326@gmail.com | | | |
+| 노찬울 | chanul0326@gmail.com | spring | android | fastapi |
 | 맹준호 | tommymaeng@gmail.com | | | |
 | 문동휘 | ehdgnlans@gmail.com | | | |
 | 박준영 | ezypuz@snu.ac.kr | | | |
