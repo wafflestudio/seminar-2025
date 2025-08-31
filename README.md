@@ -8,7 +8,7 @@
 
 |  시간           |  시간           | 장소 | 자료         |  녹화본 |
 | --------------- | ---- | ----------- | --------- | ----- |
-| 루키 세미나 OT | 2025년 8월 31일 19시 ~ 20시 30분 | 비대면 |[ OT자료 ](https://docs.google.com/presentation/d/1J4eU4WClM65h_B3LVL5s2clQsVEACQb0SxK2wzdVnUM/edit?usp=sharing) | TBD |
+| 루키 세미나 OT | 2025년 8월 31일 19시 ~ 20시 30분 | 비대면 |[ OT자료 ](https://docs.google.com/presentation/d/1J4eU4WClM65h_B3LVL5s2clQsVEACQb0SxK2wzdVnUM/edit?usp=sharing) | [ 영상 ](https://www.youtube.com/watch?v=0yjULaDUjdc) |
 
 ---
 
