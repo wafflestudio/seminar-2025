@@ -2,7 +2,7 @@
 
 아래 표에 본인의 이름과 GitHub Email을 확인한 후, 희망하는 세미나를 중복되지 않게 **1, 2, 3지망**까지 작성해 주세요.
 
-- **선택 가능 세미나**: `react`, `fastapi`, `spring`, `android`, `iOS`
+- **선택 가능 세미나**: `frontend`, `fastapi`, `spring`, `android`, `iOS`
 
 ---
 
