@@ -71,7 +71,7 @@
 | 이민준 | sshslmj@gmail.com | | | |
 | 이상원 | swl20040421@gmail.com | | | |
 | 이성준 | illusion106@naver.com | | | |
-| 이세환 | sehwanyi06@snu.ac.kr | | | |
+| 이세환 | sehwanyi06@snu.ac.kr | spring | fastapi | android |
 | 이소현 | truelove0305@naver.com | | | |
 | 이슬찬 | seulchan.lee@pm.me | | | |
 | 이승현 | lsh09130@gmail.com | | | |
