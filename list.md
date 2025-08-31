@@ -43,7 +43,7 @@
 | 노찬울 | chanul0326@gmail.com | | | |
 | 맹준호 | tommymaeng@gmail.com | | | |
 | 문동휘 | ehdgnlans@gmail.com | | | |
-| 박준영 | ezypuz@snu.ac.kr | | | |
+| 박준영 | ezypuz@snu.ac.kr | spring | fastapi | frontend |
 | 박준영 | bloomwayz@snu.ac.kr | | | |
 | 박준우 | kodugi05@gmail.com | | | |
 | 박찬영 | pcy1203@snu.ac.kr | | | |
