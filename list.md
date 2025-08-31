@@ -97,7 +97,7 @@
 | 조민 | 7shinori@gmail.com | | | |
 | 조민경 | oke08034@snu.ac.kr | | | |
 | 조서현 | andrew030818@gmail.com | | | |
-| 조수빈 | sb4330@snu.ac.kr | | | |
+| 조수빈 | sb4330@snu.ac.kr | iOS | frontend | fastapi |
 | 조시훈 | sihunjo1214@gmail.com | | | |
 | 조영민 | choking8080@snu.ac.kr | | | |
 | 조현우 | hwcho03@snu.ac.kr | | | |
