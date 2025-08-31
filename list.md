@@ -65,7 +65,7 @@
 | 오예찬 | oyc3225@naver.com | | | |
 | 오원균 | prunnejn@snu.ac.kr | | | |
 | 유예림 | yerimryu@snu.ac.kr | | | |
-| 윤찬규 | yoon002003@snu.ac.kr | | | |
+| 윤찬규 | yoon002003@snu.ac.kr |spring|fastapi|android|
 | 윤환성 | hsyoonchoi@snu.ac.kr | | | |
 | 이가현 | philipaaron1001@gmail.com | | | |
 | 이민준 | sshslmj@gmail.com | | | |
