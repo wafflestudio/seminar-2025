@@ -32,7 +32,7 @@
 | 김용현 | mined2078@gmail.com | | | |
 | 김재형 | grunjr@snu.ac.kr | | | |
 | 김지이 | eeasyykim@snu.ac.kr | | | |
-| 김찬우 | apdl0012@gmail.com | | | |
+| 김찬우 | apdl0012@gmail.com | fastapi | react | android |
 | 김철민 | rlacjfals110@naver.com | | | |
 | 김하람 | gim222932@gmail.com | | | |
 | 김한 | superhan488@snu.ac.kr | | | |
