@@ -49,7 +49,7 @@
 | 박찬영 | pcy1203@snu.ac.kr | | | |
 | 부민성 | fumin01@snu.ac.kr | | | |
 | 서민석 | sms029317@gmail.com | | | |
-| 서민준 | minjun05@snu.ac.kr | | | |
+| 서민준 | minjun05@snu.ac.kr | fastapi | spring | frontend |
 | 서주원 | juwon0718@snu.ac.kr | | | |
 | 설한동 | yabsed@snu.ac.kr | | | |
 | 손동화 | fairy7ale@icloud.com | | | |
