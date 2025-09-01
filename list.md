@@ -39,7 +39,7 @@
 | 김혜민 | hyem4900@gmail.com | | | |
 | 김효원 | khwon6960@snu.ac.kr | | | |
 | 나규하 | danielna1118@snu.ac.kr | | | |
-| 남현석 | hyeonseok3168@gmail.com | | | |
+| 남현석 | hyeonseok3168@gmail.com | fastapi | spring | frontend |
 | 노찬울 | chanul0326@gmail.com | | | |
 | 맹준호 | tommymaeng@gmail.com | | | |
 | 문동휘 | ehdgnlans@gmail.com | | | |
