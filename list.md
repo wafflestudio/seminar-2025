@@ -70,7 +70,7 @@
 | 이가현 | philipaaron1001@gmail.com | | | |
 | 이민준 | sshslmj@gmail.com | | | |
 | 이상원 | swl20040421@gmail.com | | | |
-| 이성준 | illusion106@naver.com | | | |
+| 이성준 | illusion106@naver.com | fastapi | frontend | spring |
 | 이세환 | sehwanyi06@snu.ac.kr | | | |
 | 이소현 | truelove0305@naver.com | | | |
 | 이슬찬 | seulchan.lee@pm.me | | | |
