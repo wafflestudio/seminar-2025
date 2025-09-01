@@ -17,7 +17,7 @@
 | 구동현 | ericgudong@gmail.com | | | |
 | 권성안 | sungahn0206@gmail.com | | | |
 | 권예람 | yeram0217@gmail.com | | | |
-| 김규림 | kgl050320@snu.ac.kr | | | |
+| 김규림 | kgl050320@snu.ac.kr | spring | frontend | fastapi |
 | 김기환 | kkwandy@naver.com | | | |
 | 김나현 | nananaba1@snu.ac.kr | | | |
 | 김남희 | nami200284@snu.ac.kr | | | |
