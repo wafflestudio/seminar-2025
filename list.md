@@ -15,7 +15,7 @@
 | 강현구 | hyunkang02@gmail.com | | | |
 | 경마린 | kyungmarin@snu.ac.kr | | | |
 | 구동현 | ericgudong@gmail.com | | | |
-| 권성안 | sungahn0206@gmail.com | | | |
+| 권성안 | sungahn0206@gmail.com | android | frontend | spring |
 | 권예람 | yeram0217@gmail.com | | | |
 | 김규림 | kgl050320@snu.ac.kr | | | |
 | 김기환 | kkwandy@naver.com | | | |
