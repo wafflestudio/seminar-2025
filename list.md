@@ -19,7 +19,7 @@
 | 권예람 | yeram0217@gmail.com | | | |
 | 김규림 | kgl050320@snu.ac.kr | | | |
 | 김기환 | kkwandy@naver.com | | | |
-| 김나현 | nananaba1@snu.ac.kr | | | |
+| 김나현 | nananaba1@snu.ac.kr | fastapi | frontend | android |
 | 김남희 | nami200284@snu.ac.kr | | | |
 | 김도향 | kimdohyang4@gmail.com | | | |
 | 김동현 | joshua2031@snu.ac.kr | | | |
