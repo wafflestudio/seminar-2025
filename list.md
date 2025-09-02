@@ -58,7 +58,7 @@
 | 송민혁 | ericsong2004@snu.ac.kr | | | |
 | 송진우 | jinwoosong1@snu.ac.kr | | | |
 | 송현우 | home102105@snu.ac.kr | | | |
-| 신유진 | erinshins@snu.ac.kr | | | |
+| 신유진 | erinshins@snu.ac.kr | android | frontend | fastapi |
 | 신중우 | scania@kakao.com | | | |
 | 양해울 | haeul1005@naver.com | | | |
 | 오세민 | andrew041204@snu.ac.kr | | | |
