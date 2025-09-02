@@ -89,7 +89,7 @@
 | 장우혁 | morrranii@gmail.com | | | |
 | 장정윤 | 06olivia@naver.com | | | |
 | 전동주 | dongjujeon@snu.ac.kr | | | |
-| 정민건 | geon4096@gmail.com | | | |
+| 정민건 | geon4096@gmail.com | frontend | android | spring |
 | 정성원 | cjwjeong2187@gmail.com | | | |
 | 정현수 | hyunsoo3318@snu.ac.kr | | | |
 | 정혜인 | hye__n@snu.ac.kr | | | |
