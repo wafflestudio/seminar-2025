@@ -74,7 +74,7 @@
 | 이세환 | sehwanyi06@snu.ac.kr | | | |
 | 이소현 | truelove0305@naver.com | | | |
 | 이슬찬 | seulchan.lee@pm.me | | | |
-| 이승현 | lsh09130@gmail.com | | | |
+| 이승현 | lsh09130@gmail.com | spring | android | fastapi |
 | 이예원 | yewon@snu.ac.kr | | | |
 | 이예준 | cermix0317@gmail.com | | | |
 | 이유리 | yulee2004@gmail.com | | | |
