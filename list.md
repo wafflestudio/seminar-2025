@@ -109,4 +109,4 @@
 | 한지유 | guhan530@gmail.com | | | |
 | 허서연 | best3487@snu.ac.kr | | | |
 | 홍지수 | jaylovegood@snu.ac.kr | | | |
-| 홍진목 | jinmokhong@naver.com | | | |
+| 홍진목 | jinmokhong@naver.com | spring | fastapi | frontend |
