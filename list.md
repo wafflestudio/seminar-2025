@@ -100,7 +100,7 @@
 | 조수빈 | sb4330@snu.ac.kr | | | |
 | 조시훈 | sihunjo1214@gmail.com | | | |
 | 조영민 | choking8080@snu.ac.kr | | | |
-| 조현우 | hwcho03@snu.ac.kr | | | |
+| 조현우 | hwcho03@snu.ac.kr | FastAPI | Frontend | Android |
 | 좌민석 | minseok05423@gmail.com | | | |
 | 천준영 | c0912jy@gmail.com | | | |
 | 최연서 | yeonseo432@snu.ac.kr | | | |
