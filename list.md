@@ -67,7 +67,7 @@
 | 유예림 | yerimryu@snu.ac.kr | | | |
 | 윤찬규 | yoon002003@snu.ac.kr | | | |
 | 윤환성 | hsyoonchoi@snu.ac.kr | | | |
-| 이가현 | philipaaron1001@gmail.com | | | |
+| 이가현 | philipaaron1001@gmail.com | fastapi | frontend | spring |
 | 이민준 | sshslmj@gmail.com | | | |
 | 이상원 | swl20040421@gmail.com | | | |
 | 이성준 | illusion106@naver.com | | | |
