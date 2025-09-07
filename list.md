@@ -107,6 +107,6 @@
 | 최원진 | jinnyhime0629@gmail.com | | | |
 | 한영웅 | hyulives@gmail.com | | | |
 | 한지유 | guhan530@gmail.com | | | |
-| 허서연 | best3487@snu.ac.kr | | | |
+| 허서연 | best3487@snu.ac.kr | frontend | fastapi | ios |
 | 홍지수 | jaylovegood@snu.ac.kr | | | |
 | 홍진목 | jinmokhong@naver.com | | | |
