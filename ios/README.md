@@ -34,6 +34,7 @@
     <td>10월 18일 목 오후 1:00</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>3</td>
@@ -41,11 +42,13 @@
     <td>11월 1일 토 오후 1:00</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>SwiftUI, MVVM, Clean Architecture</td>
     <td>11월 29일 토 오후 1:00</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
