@@ -32,15 +32,15 @@
     <td>2</td>
     <td>UIKit, Alamofire, Concurrency</td>
     <td>10월 18일 목 오후 1:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>301-101</td>
+    <td><A href="https://github.com/wafflestudio/seminar-2025-ios-assignment/tree/main/assignment2"> 과제2 </A></td>
+    <td><A href="https://youtu.be/63LQkvOE0pc"> 세미나2 </A></td>
   </tr>
   <tr>
     <td>3</td>
     <td>SwiftUI, Design Pattern</td>
     <td>11월 1일 토 오후 1:00</td>
-    <td></td>
+    <td>301-101</td>
     <td></td>
     <td></td>
   </tr>
