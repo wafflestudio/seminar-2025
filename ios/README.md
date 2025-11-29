@@ -38,18 +38,18 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>SwiftUI, Design Pattern</td>
+    <td>SwiftUI, Data Binding, Design Pattern</td>
     <td>11월 1일 토 오후 1:00</td>
     <td>301-101</td>
-    <td></td>
+    <td><A href="https://github.com/wafflestudio/seminar-2025-ios-assignment/tree/main/assignment3"> 과제3 </A></td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>SwiftUI, MVVM, Clean Architecture</td>
     <td>11월 29일 토 오후 1:00</td>
-    <td></td>
-    <td></td>
+    <td>301-101</td>
+    <td><A href="https://github.com/wafflestudio/seminar-2025-ios-assignment/tree/main/assignment4"> 과제4 </A></td>
     <td></td>
   </tr>
   </table>
