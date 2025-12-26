@@ -88,7 +88,7 @@
 | 임효리 | alinwinskingsleigh@snu.ac.kr | | | |
 | 장우혁 | morrranii@gmail.com | | | |
 | 장정윤 | 06olivia@naver.com | | | |
-| 전동주 | dongjujeon@snu.ac.kr | | | |
+| 전동주 | dongjujeon@snu.ac.kr | fastapi | spring | frontend |
 | 정민건 | geon4096@gmail.com | | | |
 | 정성원 | cjwjeong2187@gmail.com | | | |
 | 정현수 | hyunsoo3318@snu.ac.kr | | | |
