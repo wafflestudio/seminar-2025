@@ -52,7 +52,7 @@
 | 서민준 | minjun05@snu.ac.kr | | | |
 | 서주원 | juwon0718@snu.ac.kr | | | |
 | 설한동 | yabsed@snu.ac.kr | | | |
-| 손동화 | fairy7ale@icloud.com | | | |
+| 손동화 | fairy7ale@icloud.com | iOS | Spring | Frontend |
 | 손현준 | shon804@snu.ac.kr | | | |
 | 손호준 | sonhojun55@gmail.com | | | |
 | 송민혁 | ericsong2004@snu.ac.kr | | | |
