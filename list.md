@@ -85,7 +85,7 @@
 | 이진솔 | jinsollee4@gmail.com | | | |
 | 이태윤 | ty0908@snu.ac.kr | | | |
 | 이한경 | tteokgook1@snu.ac.kr | | | |
-| 임효리 | alinwinskingsleigh@snu.ac.kr | | | |
+| 임효리 | alinwinskingsleigh@snu.ac.kr |frontend |android |backend |
 | 장우혁 | morrranii@gmail.com | | | |
 | 장정윤 | 06olivia@naver.com | | | |
 | 전동주 | dongjujeon@snu.ac.kr | | | |
