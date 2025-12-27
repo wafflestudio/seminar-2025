@@ -48,7 +48,7 @@
 | 박준우 | kodugi05@gmail.com | | | |
 | 박찬영 | pcy1203@snu.ac.kr | | | |
 | 부민성 | fumin01@snu.ac.kr | | | |
-| 서민석 | sms029317@gmail.com | | | |
+| 서민석 | sms029317@gmail.com | frontend | fastapi | android |
 | 서민준 | minjun05@snu.ac.kr | | | |
 | 서주원 | juwon0718@snu.ac.kr | | | |
 | 설한동 | yabsed@snu.ac.kr | | | |
