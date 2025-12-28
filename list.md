@@ -45,7 +45,7 @@
 | 문동휘 | ehdgnlans@gmail.com | | | |
 | 박준영 | ezypuz@snu.ac.kr | | | |
 | 박준영 | bloomwayz@snu.ac.kr | | | |
-| 박준우 | kodugi05@gmail.com | | | |
+| 박준우 | kodugi05@gmail.com | spring | fastapi | frontend |
 | 박찬영 | pcy1203@snu.ac.kr | | | |
 | 부민성 | fumin01@snu.ac.kr | | | |
 | 서민석 | sms029317@gmail.com | | | |
