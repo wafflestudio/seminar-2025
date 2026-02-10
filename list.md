@@ -90,7 +90,7 @@
 | 장정윤 | 06olivia@naver.com | | | |
 | 전동주 | dongjujeon@snu.ac.kr | | | |
 | 정민건 | geon4096@gmail.com | | | |
-| 정성원 | cjwjeong2187@gmail.com | | | |
+| 정성원 | cjwjeong2187@gmail.com |spring|android|fastapi|
 | 정현수 | hyunsoo3318@snu.ac.kr | | | |
 | 정혜인 | hye__n@snu.ac.kr | | | |
 | 조무영 | strangequark000@gmail.com | | | |
