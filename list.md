@@ -25,7 +25,7 @@
 | 김동현 | joshua2031@snu.ac.kr | | | |
 | 김동현 | luciok1203@naver.com | | | |
 | 김민재 | kkomul1@snu.ac.kr | | | |
-| 김성헌 | sheon2001@gmail.com | | | |
+| 김성헌 | sheon2001@gmail.com | spring | fastapi | frontend |
 | 김성훈 | blobalternative@gmail.com | | | |
 | 김수철 | illpeal18@snu.ac.kr | | | |
 | 김시현 | sihyunkim@snu.ac.kr | | | |
