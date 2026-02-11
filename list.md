@@ -95,7 +95,7 @@
 | 정혜인 | hye__n@snu.ac.kr | | | |
 | 조무영 | strangequark000@gmail.com | | | |
 | 조민 | 7shinori@gmail.com | | | |
-| 조민경 | oke08034@snu.ac.kr | | | |
+| 조민경 | oke08034@snu.ac.kr | android | spring | fastapi |
 | 조서현 | andrew030818@gmail.com | | | |
 | 조수빈 | sb4330@snu.ac.kr | | | |
 | 조시훈 | sihunjo1214@gmail.com | | | |
