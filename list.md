@@ -38,7 +38,7 @@
 | 김한 | superhan488@snu.ac.kr | | | |
 | 김혜민 | hyem4900@gmail.com | | | |
 | 김효원 | khwon6960@snu.ac.kr | | | |
-| 나규하 | danielna1118@snu.ac.kr | | | |
+| 나규하 | danielna1118@snu.ac.kr | frontend | spring | android |
 | 남현석 | hyeonseok3168@gmail.com | | | |
 | 노찬울 | chanul0326@gmail.com | | | |
 | 맹준호 | tommymaeng@gmail.com | | | |
