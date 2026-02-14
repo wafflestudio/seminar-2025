@@ -80,7 +80,7 @@
 | 이유리 | yulee2004@gmail.com | | | |
 | 이정달 | jdahl0711@gmail.com | | | |
 | 이정연 | jylee05@snu.ac.kr | | | |
-| 이준성 | leejs0525@snu.ac.kr | | | |
+| 이준성 | leejs0525@snu.ac.kr | iOS | fastapi | android |
 | 이준엽 | jun411@snu.ac.kr | | | |
 | 이진솔 | jinsollee4@gmail.com | | | |
 | 이태윤 | ty0908@snu.ac.kr | | | |
