@@ -36,7 +36,7 @@
 | 김철민 | rlacjfals110@naver.com | | | |
 | 김하람 | gim222932@gmail.com | | | |
 | 김한 | superhan488@snu.ac.kr | | | |
-| 김혜민 | hyem4900@gmail.com | | | |
+| 김혜민 | hyem4900@gmail.com | spring | frontend | iOS |
 | 김효원 | khwon6960@snu.ac.kr | | | |
 | 나규하 | danielna1118@snu.ac.kr | | | |
 | 남현석 | hyeonseok3168@gmail.com | | | |
