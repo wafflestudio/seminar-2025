@@ -28,7 +28,7 @@
 | 김성헌 | sheon2001@gmail.com | | | |
 | 김성훈 | blobalternative@gmail.com | | | |
 | 김수철 | illpeal18@snu.ac.kr | | | |
-| 김시현 | sihyunkim@snu.ac.kr | | | |
+| 김시현 | sihyunkim@snu.ac.kr | spring | fastapi | android |
 | 김용현 | mined2078@gmail.com | | | |
 | 김재형 | grunjr@snu.ac.kr | | | |
 | 김지이 | eeasyykim@snu.ac.kr | | | |
