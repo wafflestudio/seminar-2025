@@ -64,7 +64,7 @@
 | 오세민 | andrew041204@snu.ac.kr | | | |
 | 오예찬 | oyc3225@naver.com | | | |
 | 오원균 | prunnejn@snu.ac.kr | | | |
-| 유예림 | yerimryu@snu.ac.kr | | | |
+| 유예림 | yerimryu@snu.ac.kr |fastapi |spring |fronted |
 | 윤찬규 | yoon002003@snu.ac.kr | | | |
 | 윤환성 | hsyoonchoi@snu.ac.kr | | | |
 | 이가현 | philipaaron1001@gmail.com | | | |
