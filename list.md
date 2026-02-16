@@ -21,7 +21,7 @@
 | 김기환 | kkwandy@naver.com | | | |
 | 김나현 | nananaba1@snu.ac.kr | | | |
 | 김남희 | nami200284@snu.ac.kr | | | |
-| 김도향 | kimdohyang4@gmail.com | | | |
+| 김도향 | kimdohyang4@gmail.com | spring | frontend | fastapi |
 | 김동현 | joshua2031@snu.ac.kr | | | |
 | 김동현 | luciok1203@naver.com | | | |
 | 김민재 | kkomul1@snu.ac.kr | | | |
