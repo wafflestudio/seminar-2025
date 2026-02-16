@@ -35,7 +35,7 @@
 | 김찬우 | apdl0012@gmail.com | | | |
 | 김철민 | rlacjfals110@naver.com | | | |
 | 김하람 | gim222932@gmail.com | | | |
-| 김한 | superhan488@snu.ac.kr | | | |
+| 김한 | superhan488@snu.ac.kr | frontend | iOS | fastapi |
 | 김혜민 | hyem4900@gmail.com | | | |
 | 김효원 | khwon6960@snu.ac.kr | | | |
 | 나규하 | danielna1118@snu.ac.kr | | | |
