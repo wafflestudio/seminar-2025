@@ -22,7 +22,7 @@
 | 김나현 | nananaba1@snu.ac.kr | | | |
 | 김남희 | nami200284@snu.ac.kr | | | |
 | 김도향 | kimdohyang4@gmail.com | | | |
-| 김동현 | joshua2031@snu.ac.kr | | | |
+| 김동현 | joshua2031@snu.ac.kr | spring | fastapi | frontend |
 | 김동현 | luciok1203@naver.com | | | |
 | 김민재 | kkomul1@snu.ac.kr | | | |
 | 김성헌 | sheon2001@gmail.com | | | |
