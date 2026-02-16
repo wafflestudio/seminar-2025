@@ -56,7 +56,7 @@
 | 손현준 | shon804@snu.ac.kr | | | |
 | 손호준 | sonhojun55@gmail.com | | | |
 | 송민혁 | ericsong2004@snu.ac.kr | | | |
-| 송진우 | jinwoosong1@snu.ac.kr | | | |
+| 송진우 | jinwoosong1@snu.ac.kr |iOS |frontend |spring |
 | 송현우 | home102105@snu.ac.kr | | | |
 | 신유진 | erinshins@snu.ac.kr | | | |
 | 신중우 | scania@kakao.com | | | |
