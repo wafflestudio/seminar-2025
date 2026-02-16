@@ -29,7 +29,7 @@
 | 김성훈 | blobalternative@gmail.com | | | |
 | 김수철 | illpeal18@snu.ac.kr | | | |
 | 김시현 | sihyunkim@snu.ac.kr | | | |
-| 김용현 | mined2078@gmail.com | | | |
+| 김용현 | mined2078@gmail.com |spring|fastapi|frontend|
 | 김재형 | grunjr@snu.ac.kr | | | |
 | 김지이 | eeasyykim@snu.ac.kr | | | |
 | 김찬우 | apdl0012@gmail.com | | | |
