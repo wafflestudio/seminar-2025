@@ -104,7 +104,7 @@
 | 좌민석 | minseok05423@gmail.com | | | |
 | 천준영 | c0912jy@gmail.com | | | |
 | 최연서 | yeonseo432@snu.ac.kr | | | |
-| 최원진 | jinnyhime0629@gmail.com | | | |
+| 최원진 | jinnyhime0629@gmail.com |fastapi |spring |frontend |
 | 한영웅 | hyulives@gmail.com | | | |
 | 한지유 | guhan530@gmail.com | | | |
 | 허서연 | best3487@snu.ac.kr | | | |
