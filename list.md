@@ -62,7 +62,7 @@
 | 신중우 | scania@kakao.com | | | |
 | 양해울 | haeul1005@naver.com | | | |
 | 오세민 | andrew041204@snu.ac.kr | | | |
-| 오예찬 | oyc3225@naver.com | | | |
+| 오예찬 | oyc3225@naver.com |frontend|fastapi|spring|
 | 오원균 | prunnejn@snu.ac.kr | | | |
 | 유예림 | yerimryu@snu.ac.kr | | | |
 | 윤찬규 | yoon002003@snu.ac.kr | | | |
