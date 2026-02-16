@@ -78,7 +78,7 @@
 | 이예원 | yewon@snu.ac.kr | | | |
 | 이예준 | cermix0317@gmail.com | | | |
 | 이유리 | yulee2004@gmail.com | | | |
-| 이정달 | jdahl0711@gmail.com | | | |
+| 이정달 | jdahl0711@gmail.com | spring | fastapi | frontend |
 | 이정연 | jylee05@snu.ac.kr | | | |
 | 이준성 | leejs0525@snu.ac.kr | | | |
 | 이준엽 | jun411@snu.ac.kr | | | |
